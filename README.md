@@ -1,6 +1,7 @@
 # user_management_system
 
 Project Name: UserManagementSystem
+
 Technologies Used: Spring, Hibernate, JSP, JSTL, HTML, CSS, jQuery
 
 Project Description:
